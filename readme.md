@@ -13,8 +13,8 @@ if error occured rollback migration and import db from project folder DB/statue.
 ``` php artisan serve ``` 
 - Login from browser using username: admin@gmail.com, password: password
 
-Features:
-### Complete backend system for NEW YORK City statue finder.
-### API for mobile application.
+## Features:
+#### Complete backend system for NEW YORK City statue finder.
+#### API for mobile application.
 
 
